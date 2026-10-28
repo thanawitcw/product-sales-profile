@@ -5,10 +5,6 @@ profile from raw sell-out exports. Every sales row is mapped to a sales type
 (`Normal` / `Promotion`), a promotion theme, and an effective selling price
 including VAT, then rolled up into average quantity and carton sales per day.
 
-This is the consolidated version of two earlier R scripts (daily sell-out + promo
-cleaning and product sales profiling). The simpler single-month script is
-superseded by this one and has been removed to keep a single R project.
-
 ---
 
 ## What it does
